@@ -2,7 +2,7 @@ import React from "react";
 
 const DatosDelMes = () => {
   return (
-    <div className="w-1/3 mt-16 mx-auto ">
+    <div className="mt-16 container">
       <h2 className="text-gray-700 text-xl ">
         <span className="text-red-500 font-bold">|</span>Datos del mes
       </h2>

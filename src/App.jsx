@@ -7,9 +7,13 @@ function App() {
     <>
       <div className="flex">
         <Menu />
-        <DatosDelMes />
+
+        <div className="ml-56">
+          <Productividad />
+        </div>
+
+        <Productividad />
       </div>
-      <Productividad />
     </>
   );
 }

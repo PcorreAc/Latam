@@ -4,7 +4,7 @@ const Menu = () => {
   return (
     <div
       id="sidenavExample"
-      className=" w-60 h-full shadow-md px-1 absolute bg-blue-600"
+      className=" w-60 h-full shadow-md px-1 absolute bg-blue-600 container"
     >
       <h1 className="text-center mb-16">LATAM</h1>
 
